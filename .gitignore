@@ -1,0 +1,14 @@
+# Build
+gestione_conti
+gestione_conti.exe
+*.o
+*.obj
+
+# Runtime binary data
+dati_conti.bin
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
